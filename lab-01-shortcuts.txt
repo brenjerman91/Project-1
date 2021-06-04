@@ -1,0 +1,16 @@
+My name is Ben 
+Copy selected text to buffer- CTrl C
+Paste from buffer - ctrl V
+Cut selected text to buffer (selected text is deleted)- ctrl x
+Save current file in VSCode ctrl s
+Toggle block comment in VSCode 
+Toggle line comment in VSCode
+Move cursor from word to word right ctrl alt  left arrow 
+Move cursor from word to word left ctrl shift left arrow 
+Select word right
+Select word left
+Select all contents
+Select current line, including end of line character
+Jump to start of line
+Jump to end of line
+Jump to beginning of current file
