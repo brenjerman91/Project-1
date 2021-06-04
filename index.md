@@ -1,2 +1,3 @@
-![lab-01-folders](https://user-images.githubusercontent.com/72880293/120858984-6cda0500-c538-11eb-97b9-46a95d431d76.png)
-![lab-01-node](https://user-images.githubusercontent.com/72880293/120859022-78c5c700-c538-11eb-9fb3-efeb4dc14e01.png)
+<img width="864" alt="Screen Shot 2021-06-04 at 1 28 24 PM" src="https://user-images.githubusercontent.com/72880293/120859300-deb24e80-c538-11eb-9e93-1099f59ca921.png">
+![p1-folders](https://user-images.githubusercontent.com/72880293/120859307-e07c1200-c538-11eb-8e74-04b6097c5b5d.png)
+![p1-tree](https://user-images.githubusercontent.com/72880293/120859328-e5d95c80-c538-11eb-86af-50abb4ca3672.png)
